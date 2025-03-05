@@ -1,3 +1,3 @@
 # octopus_input
 
-This is the octopus input file 
+ octopus input file to test
